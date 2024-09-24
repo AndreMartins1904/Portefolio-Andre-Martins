@@ -1,1 +1,1 @@
-Primeiro exercicio usando o Git
+Adicionar imagem
